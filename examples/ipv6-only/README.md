@@ -2,7 +2,7 @@
 
 Configuration in this directory creates set of VPC resources with IPv6 only enabled on VPC and subnets.
 
-[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/ipv6-only.svg)](https://tfmodules.inkdrop.ai/examples/ipv6-only)
+[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/ipv6-only.svg)](https://tfmodules.inkdrop.ai/terraform-aws-vpc/examples/ipv6-only)
 
 ## Usage
 

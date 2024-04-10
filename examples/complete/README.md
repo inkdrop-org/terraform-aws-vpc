@@ -4,7 +4,7 @@ Configuration in this directory creates set of VPC resources which may be suffic
 
 There are public, private, database, ElastiCache, intra (private w/o Internet access) subnets, and NAT Gateways created in each availability zone.
 
-[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/complete.svg)](https://tfmodules.inkdrop.ai/examples/complete)
+[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/complete.svg)](https://tfmodules.inkdrop.ai/terraform-aws-vpc/examples/complete)
 
 ## Usage
 

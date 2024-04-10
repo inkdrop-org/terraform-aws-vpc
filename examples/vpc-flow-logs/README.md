@@ -6,7 +6,7 @@ Configuration in this directory creates a set of VPC resources with VPC Flow Log
 1. `cloud-watch-logs.tf` - Push logs to an existing AWS CloudWatch Log group using existing IAM role (created outside of this module).
 1. `s3.tf` - Push logs to an existing S3 bucket (created outside of this module).
 
-[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/vpc-flow-logs.svg)](https://tfmodules.inkdrop.ai/examples/vpc-flow-logs)
+[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/vpc-flow-logs.svg)](https://tfmodules.inkdrop.ai/terraform-aws-vpc/examples/vpc-flow-logs)
 
 ## Usage
 

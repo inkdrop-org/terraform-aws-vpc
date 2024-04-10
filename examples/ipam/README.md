@@ -4,6 +4,8 @@ Configuration in this directory creates set of VPC resources using the CIDR prov
 
 Note: Due to the nature of vending CIDR blocks from an IPAM pool, the IPAM pool must exist prior to creating a VPC using one of the CIDRs from the pool.
 
+[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/ipam.svg)](https://tfmodules.inkdrop.ai/examples/ipam)
+
 ## Usage
 
 To run this example you need to execute:

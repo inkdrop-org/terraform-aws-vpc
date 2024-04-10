@@ -4,6 +4,8 @@ Configuration in this directory creates set of VPC resources which may be suffic
 
 There are public, private, database, ElastiCache, Redshift subnets, NAT Gateways created in each availability zone. **This example sets up separate private route for database, elasticache and redshift subnets.**.
 
+[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/separate-route-tables.svg)](https://tfmodules.inkdrop.ai/examples/separate-route-tables)
+
 ## Usage
 
 To run this example you need to execute:

@@ -4,6 +4,8 @@ Terraform module which creates VPC resources on AWS.
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
+[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/terraform-aws-vpc.svg)](https://tfmodules.inkdrop.ai/terraform-aws-vpc)
+
 ## Usage
 
 ```hcl

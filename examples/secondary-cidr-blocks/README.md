@@ -4,6 +4,8 @@ Configuration in this directory creates set of VPC resources across multiple CID
 
 There is a public and private subnet created per availability zone in addition to single NAT Gateway shared between all 3 availability zones.
 
+[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/secondary-cidr-blocks.svg)](https://tfmodules.inkdrop.ai/examples/secondary-cidr-blocks)
+
 ## Usage
 
 To run this example you need to execute:

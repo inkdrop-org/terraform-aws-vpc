@@ -2,6 +2,8 @@
 
 Configuration in this directory creates set of VPC resources with IPv6 enabled on VPC and subnets.
 
+[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/ipv6-dualstack.svg)](https://tfmodules.inkdrop.ai/examples/ipv6-dualstack)
+
 ## Usage
 
 To run this example you need to execute:

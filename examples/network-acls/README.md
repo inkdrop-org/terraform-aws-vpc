@@ -6,6 +6,8 @@ Network ACL rules for inbound and outbound traffic are defined as the following:
 1. Public and elasticache subnets will have network ACL rules provided
 1. Private subnets will be associated with the default network ACL rules (IPV4-only ingress and egress is open for all)
 
+[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/network-acls.svg)](https://tfmodules.inkdrop.ai/examples/network-acls)
+
 ## Usage
 
 To run this example you need to execute:

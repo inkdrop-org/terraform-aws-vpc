@@ -7,6 +7,8 @@ Configuration in this directory creates set of VPC resources to cover issues rep
 - https://github.com/terraform-aws-modules/terraform-aws-vpc/issues/102
 - https://github.com/terraform-aws-modules/terraform-aws-vpc/issues/108
 
+[![Inkdrop Diagram](https://raw.githubusercontent.com/inkdrop-org/terraform-aws-vpc/master/diagrams/issues.svg)](https://tfmodules.inkdrop.ai/examples/issues)
+
 ## Usage
 
 To run this example you need to execute:
